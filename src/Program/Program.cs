@@ -1,4 +1,6 @@
-﻿namespace TestDateFormat;
+﻿using System;
+
+namespace TestDateFormat;
 
 /// <summary>
 /// El programa principal.
